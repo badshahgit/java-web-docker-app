@@ -40,15 +40,15 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome to Ashok-IT New Website</h2>
-			<h3>Contact @ +91 - 9985296677 / 9985396677 / 6301921083 </h3>
+			<h2>Welcome to ELAI AGRITECH PVT LTD</h2>
+			<h3>Contact @ +91 - 8446467161 </h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Ashok IT 2023</p>
+		<p>&copy; Sultan.ap@elai.app</p>
 	</footer>
 </div>
 
